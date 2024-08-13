@@ -115,7 +115,7 @@ def train_model_knn(features, labels):
     return model
 from sklearn.ensemble import GradientBoostingClassifier
 def train_model_GradientBoostingClassifier(features, labels):
-    model = GradientBoostingClassifier(n_estimators=100, learning_rate=1.0, max_depth=1, random_state=0)
+    model = GradientBoostingClassifier( random_state=0)
     model.fit(features, labels)
     return model
 # Evaluation
