@@ -27,7 +27,7 @@ Explore our Instruct LLama system through our live demo:
 | Example 3| `regina Pasta penne 400g`           | Rice, Pasta & Pulses   | regina       | 400g      | 1                | No Size of units| No Price| No T.Price | كيس   | g     |
 | Example 4| `10.00 400g Penne Pasta ElMaleka`   | Rice, Pasta & Pulses   | ElMaleka     | 400g      | 1                | No Size of units| 10      | 10      | كيس   | g     |
 
-
+ 
 ## Getting the code
 
 
