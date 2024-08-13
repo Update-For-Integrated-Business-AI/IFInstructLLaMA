@@ -85,7 +85,9 @@ print(output)
 - **Training Set**: [Download](https://drive.google.com/file/d/1DNdNBnN-i1z6mthrtO6JMtU3pADTNxut/view?usp=sharing)
 - **Validation Set**: [Download](https://drive.google.com/file/d/1j8ybqbfMCKEghppfa88eoHAuEvtZ5-dO/view?usp=sharing)
 - **Test Set**: [Download](https://drive.google.com/file/d/1l8iUlFnNehIIvkk_xEpB8NDidGX9EF5d/view?usp=sharing)
-
+## Result
+ -  LLama v1 Fine tuned [Download](https://github.com/Update-For-Integrated-Business-AI/AMuRD/blob/main/results.zip)
+ -  LLama v2 Fine tuned [Download](https://github.com/Update-For-Integrated-Business-AI/AMuRD/blob/main/results.zip)
 ## License
 
 Note: The AMuRD Dataset can only be used for non-commercial research purposes. 
