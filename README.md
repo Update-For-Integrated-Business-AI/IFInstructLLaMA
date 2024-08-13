@@ -5,7 +5,7 @@
 
 
 
-## Abstract
+## Abstract 
 
 > The extraction of key information from receipts is a complex task that involves the recognition and extraction of text from scanned receipts. This process is crucial as it enables the retrieval of essential content and organizing it into structured documents for easy access and analysis. In this paper, we present AMuRD, a novel multilingual human-annotated dataset specifically designed for information extraction from receipts. This dataset comprises $47,720$ samples and addresses the key challenges in information extraction and item classification - the two critical aspects of data analysis in the retail industry. Each sample includes annotations for item names and attributes such as price, brand, and more. This detailed annotation facilitates a comprehensive understanding of each item on the receipt. Furthermore, the dataset provides classification into $44$ distinct product categories. This classification feature allows for a more organized and efficient analysis of the items, enhancing the usability of the dataset for various applications. In our study, we evaluated various language model architectures, e.g., by fine-tuning LLaMA models on the AMuRD dataset. Our approach yielded exceptional results, with an F1 score of 97.43\% and accuracy of 94.99\% in information extraction and classification, and an even higher F1 score of 98.51\% and accuracy of 97.06\% observed in specific tasks.
 
